@@ -77,3 +77,38 @@ key: 27827c645b
 
 `@projector_key`
 9664091f2a58d178f410023ce18d0b97
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise 
+xp: 50 
+key: b8850f9fbc   
+```
+
+
+Wie?
+
+
+`@instructions`
+So
+Oder so
+oder anders
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
